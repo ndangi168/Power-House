@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		1C1323222711FD1500AE12F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323212711FD1500AE12F3 /* AppDelegate.swift */; };
 		1C1323242711FD1500AE12F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323232711FD1500AE12F3 /* SceneDelegate.swift */; };
-		1C1323262711FD1500AE12F3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323252711FD1500AE12F3 /* ViewController.swift */; };
+		1C1323262711FD1500AE12F3 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323252711FD1500AE12F3 /* LoginController.swift */; };
 		1C1323292711FD1500AE12F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C1323272711FD1500AE12F3 /* Main.storyboard */; };
 		1C13232B2711FD1700AE12F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C13232A2711FD1700AE12F3 /* Assets.xcassets */; };
 		1C13232E2711FD1700AE12F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C13232C2711FD1700AE12F3 /* LaunchScreen.storyboard */; };
+		1C1323362712BDA200AE12F3 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323352712BDA200AE12F3 /* Buttons.swift */; };
+		1C13233D2712F19000AE12F3 /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C13233C2712F19000AE12F3 /* SignUpController.swift */; };
+		1C13233F2712F89000AE12F3 /* GenderConroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C13233E2712F89000AE12F3 /* GenderConroller.swift */; };
+		1C1323412713026900AE12F3 /* Screenshot 2021-10-10 at 4.43.37 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C1323402713026900AE12F3 /* Screenshot 2021-10-10 at 4.43.37 PM.png */; };
+		1C1323432713059600AE12F3 /* DescriptionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323422713059500AE12F3 /* DescriptionController.swift */; };
+		1C132345271305C100AE12F3 /* ProffessionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C132344271305C100AE12F3 /* ProffessionController.swift */; };
+		1C132347271305DE00AE12F3 /* MedicalController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C132346271305DD00AE12F3 /* MedicalController.swift */; };
+		1C1323492713061900AE12F3 /* GoalController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1323482713061900AE12F3 /* GoalController.swift */; };
+		1C13234D2713064C00AE12F3 /* PreferController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C13234C2713064C00AE12F3 /* PreferController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1C13231E2711FD1500AE12F3 /* Power House.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Power House.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C1323212711FD1500AE12F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C1323232711FD1500AE12F3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1C1323252711FD1500AE12F3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1C1323252711FD1500AE12F3 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 		1C1323282711FD1500AE12F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1C13232A2711FD1700AE12F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C13232D2711FD1700AE12F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C13232F2711FD1700AE12F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C1323352712BDA200AE12F3 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		1C13233C2712F19000AE12F3 /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
+		1C13233E2712F89000AE12F3 /* GenderConroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenderConroller.swift; sourceTree = "<group>"; };
+		1C1323402713026900AE12F3 /* Screenshot 2021-10-10 at 4.43.37 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-10-10 at 4.43.37 PM.png"; sourceTree = "<group>"; };
+		1C1323422713059500AE12F3 /* DescriptionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescriptionController.swift; sourceTree = "<group>"; };
+		1C132344271305C100AE12F3 /* ProffessionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProffessionController.swift; sourceTree = "<group>"; };
+		1C132346271305DD00AE12F3 /* MedicalController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MedicalController.swift; sourceTree = "<group>"; };
+		1C1323482713061900AE12F3 /* GoalController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalController.swift; sourceTree = "<group>"; };
+		1C13234C2713064C00AE12F3 /* PreferController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +76,30 @@
 			children = (
 				1C1323212711FD1500AE12F3 /* AppDelegate.swift */,
 				1C1323232711FD1500AE12F3 /* SceneDelegate.swift */,
-				1C1323252711FD1500AE12F3 /* ViewController.swift */,
+				1C1323392712EF4600AE12F3 /* Controller */,
 				1C1323272711FD1500AE12F3 /* Main.storyboard */,
 				1C13232A2711FD1700AE12F3 /* Assets.xcassets */,
+				1C1323402713026900AE12F3 /* Screenshot 2021-10-10 at 4.43.37 PM.png */,
 				1C13232C2711FD1700AE12F3 /* LaunchScreen.storyboard */,
 				1C13232F2711FD1700AE12F3 /* Info.plist */,
+				1C1323352712BDA200AE12F3 /* Buttons.swift */,
 			);
 			path = "Power House";
+			sourceTree = "<group>";
+		};
+		1C1323392712EF4600AE12F3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1C1323252711FD1500AE12F3 /* LoginController.swift */,
+				1C13233C2712F19000AE12F3 /* SignUpController.swift */,
+				1C13233E2712F89000AE12F3 /* GenderConroller.swift */,
+				1C1323422713059500AE12F3 /* DescriptionController.swift */,
+				1C132344271305C100AE12F3 /* ProffessionController.swift */,
+				1C132346271305DD00AE12F3 /* MedicalController.swift */,
+				1C1323482713061900AE12F3 /* GoalController.swift */,
+				1C13234C2713064C00AE12F3 /* PreferController.swift */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,6 +159,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C1323412713026900AE12F3 /* Screenshot 2021-10-10 at 4.43.37 PM.png in Resources */,
 				1C13232E2711FD1700AE12F3 /* LaunchScreen.storyboard in Resources */,
 				1C13232B2711FD1700AE12F3 /* Assets.xcassets in Resources */,
 				1C1323292711FD1500AE12F3 /* Main.storyboard in Resources */,
@@ -137,9 +173,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C1323262711FD1500AE12F3 /* ViewController.swift in Sources */,
+				1C1323492713061900AE12F3 /* GoalController.swift in Sources */,
+				1C132345271305C100AE12F3 /* ProffessionController.swift in Sources */,
+				1C13233D2712F19000AE12F3 /* SignUpController.swift in Sources */,
+				1C1323262711FD1500AE12F3 /* LoginController.swift in Sources */,
 				1C1323222711FD1500AE12F3 /* AppDelegate.swift in Sources */,
 				1C1323242711FD1500AE12F3 /* SceneDelegate.swift in Sources */,
+				1C1323432713059600AE12F3 /* DescriptionController.swift in Sources */,
+				1C132347271305DE00AE12F3 /* MedicalController.swift in Sources */,
+				1C1323362712BDA200AE12F3 /* Buttons.swift in Sources */,
+				1C13233F2712F89000AE12F3 /* GenderConroller.swift in Sources */,
+				1C13234D2713064C00AE12F3 /* PreferController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
